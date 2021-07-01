@@ -1,18 +1,25 @@
 {
-  "name": "seeds",
+  "name": "ecommerce",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "dotenv": "^10.0.0",
-    "mysql2": "^2.2.5",
-    "sequelize": "^6.6.4"
-  },
-  "devDependencies": {},
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marksherm04/ecommerce.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marksherm04/ecommerce/issues"
+  },
+  "homepage": "https://github.com/marksherm04/ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.4"
+  }
 }
