@@ -37,6 +37,12 @@ Product.init(
       validate: {
         isNumeric: true
       }
+    },
+    category_id: {
+      type: DataTypes.INTEGER,
+      // may need foreign key here
+      // REFERENCE the category model's id HERE *** need to confirm done correctly
+      references: category(id)
     }
   },
   {
