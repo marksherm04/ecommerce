@@ -14,7 +14,6 @@ router.get('/', (req, res) => {
         attributes: ['id', 'category_name']
       },
       {
-        // may need to edit
         model: Tag,
         attributes: ['tag_name']
       }
@@ -39,7 +38,6 @@ router.get('/:id', (req, res) => {
         attributes: ['id', 'category_id']
       },
       {
-        // may need to edit
         model: Tag,
         attributes: ['tag_name']
       }
