@@ -18,10 +18,10 @@ E-Commerce is a backend project for a site that sells varius items.  This is a p
 - [Questions](#githubUser)
 
 ## Installation
-npm install, the sequelize and mysql package are installed with the application. You may have to npm install dotenv and create an .env file to store DB_NAME, DB_USER, and DB_PW.  NPM start will launch the backend and you can use Insomnia program to test the backend routes.
+npm install, the sequelize and mysql package are installed with the application. You may have to npm install dotenv and create an .env file to store DB_NAME, DB_USER, and DB_PW.  
 
 ## Usage
-See above.
+NPM start will launch the backend and you can use Insomnia program to test the backend routes.
 
 ## Contributing
 Mark Sherman
