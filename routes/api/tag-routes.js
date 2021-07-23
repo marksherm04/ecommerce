@@ -4,6 +4,7 @@ const { Tag, Product, ProductTag } = require('../../models');
 
 // The `/api/tags` endpoint
 
+// Get all Tags
 router.get('/', (req, res) => {
   Tag.findAll({
     attributes: ['id', 'tag_name'],
@@ -21,6 +22,7 @@ router.get('/', (req, res) => {
     });
 });
 
+// Get one Tag by ID
 router.get('/:id', (req, res) => {
   Tag.findOne({
     where: {

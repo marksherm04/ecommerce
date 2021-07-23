@@ -48,6 +48,7 @@ router.get('/:id', (req, res) => {
     });
 });
 
+// Create one category
 router.post('/', (req, res) => {
   Category.create({
     category_name: req.body.category_name
@@ -59,6 +60,7 @@ router.post('/', (req, res) => {
     });
 });
 
+// Update or change one Category
 router.put('/:id', (req, res) => {
   Category.update({
     category_name: req.body.category_name
@@ -81,6 +83,7 @@ router.put('/:id', (req, res) => {
     });
 });
 
+// Delete one Category by Category ID
 router.delete('/:id', (req, res) => {
   Category.destroy({
     where: {
