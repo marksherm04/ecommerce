@@ -27,7 +27,8 @@ NPM start will launch the backend and you can use Insomnia program to test the b
 Mark Sherman
 
 ## Screenshot
-![E-commerce](https://user-images.githubusercontent.com/81338255/126816266-62fd97d2-ecd0-4f5c-8736-bd9d3136d763.gif)
+<img width="2556" alt="Screen Shot 2021-07-23 at 1 00 40 PM" src="https://user-images.githubusercontent.com/81338255/126816480-a678b2fe-5ca8-48fb-944e-e081d60e788f.png">
+
 
 
 ## License
