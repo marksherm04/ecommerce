@@ -13,8 +13,8 @@ E-Commerce is a backend project for a site that sells varius items.  This is a p
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
-- [License](#license)
+- [Screenshot](#tests)
+- [License](#screenshot)
 - [Questions](#githubUser)
 
 ## Installation
@@ -27,6 +27,7 @@ NPM start will launch the backend and you can use Insomnia program to test the b
 Mark Sherman
 
 ## Screenshot
+![E-commerce](https://user-images.githubusercontent.com/81338255/126816266-62fd97d2-ecd0-4f5c-8736-bd9d3136d763.gif)
 
 
 ## License
