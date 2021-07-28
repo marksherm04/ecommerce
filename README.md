@@ -29,7 +29,11 @@ Mark Sherman
 ## Screenshot
 <img width="2556" alt="Screen Shot 2021-07-23 at 1 00 40 PM" src="https://user-images.githubusercontent.com/81338255/126816480-a678b2fe-5ca8-48fb-944e-e081d60e788f.png">
 
+## Walk Through Videos
 
+https://drive.google.com/file/d/1qR4II2FP5WBhusS6DChmOopikvuABO3l/view  - PART 1
+
+https://drive.google.com/file/d/1fOUDsBmE-WS5wfN5a5KXZxwEC4FWOTB7/view  - PART 2 
 
 ## License
 MIT
